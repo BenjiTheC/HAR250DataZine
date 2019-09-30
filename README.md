@@ -30,6 +30,7 @@ Some links of realtive articles:
 - [Katie Bouman being attacked because she's a female](https://www.nbcnews.com/tech/tech-news/first-picture-black-hole-made-katie-bouman-overnight-celebrity-then-n994081)
 - [IPEDS Database](https://nces.ed.gov/ipeds/use-the-data)
 - [LinkedIn: Gender equality is within our reach](https://www.linkedin.com/pulse/gender-equality-within-our-reach-melinda-gates/)
+- [MeToo in Silicon Valley](https://www.ft.com/content/af5f42a8-1501-11e9-a168-d45595ad076d)
 
 - [Grace Hopper Conference 2019: Oct 1st - Oct 4th]()
 
